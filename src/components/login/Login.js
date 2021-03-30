@@ -19,9 +19,10 @@ return(
 <Form.Group controlId="formBasicCheckbox">
   <Form.Check type="checkbox" label="Check me out" />
 </Form.Group>
-<Button variant="primary" type="submit">
+<Button variant="primary" type="submit" block>
  Login
 </Button>
+
 </Form>
   </div>
 )
